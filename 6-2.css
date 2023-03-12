@@ -1,0 +1,15 @@
+.side{
+    background-color:#ff838b;
+    width:120px;
+    height:300px;
+    position: sticky;
+}
+.content{
+    background-color:#b3d874;
+    width:1790px;
+    height:70px;
+    margin-left:10px;/*サイドバーとメインコンテンツの間に隙間*/
+}
+article {
+    display:flex;/*サイドバーとメインコンテンツを横並びにする指定をした*/
+}
